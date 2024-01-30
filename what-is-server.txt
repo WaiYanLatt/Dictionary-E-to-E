@@ -1,0 +1,13 @@
+server က ကျတော် တို့ computer ကြီး ပါ
+web development တစ် ခု လုံး ကို စားသောက် ဆိုင် အဖြစ်  
+မြင် ကြည့် ပါ စားသောက် ဆိုင် ရဲ့ အခင်းအကျင်း plating
+တွေ က frontend ပါ kitchen ကို server လို့ သတ်မှတ် လိုက် chief တွေ
+က backend developer တွေ waiter က api 
+backend နဲ့ frontend ချိတ် ပေး တာ 
+client က မှာ တဲ့ request ကို waiter က သယ် ပြီး chief ဆီ ပို့ ရ တယ်
+chief ဆီ က နေ response ပြန် လာ တယ် ပြီး ရင် ပြန် ပေး တယ်
+
+what is api ?
+
+Api ရဲ့ အရှည် ခေါက် က Application interface programing 
+api က frontend နဲ့ server or backend သူ တို့ ကြား မှာ နေ တယ် 
